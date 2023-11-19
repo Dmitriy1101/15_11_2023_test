@@ -5,6 +5,7 @@ https://docs.google.com/document/d/1fMFwPBs53xzcrltEFOpEG4GWTaQ-5jvVLrNT6_hmC7I/
 # Здравствуйте
 
 ## Все просто:
+- Выполнено на Python 3.9
 - По заданию требовалось использовать [tinyDB](https://tinydb.readthedocs.io/en/latest/intro.html)
   - Логика БД `web_form\form_app\tiny_models.py`
 - Для работы:
